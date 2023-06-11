@@ -1007,10 +1007,8 @@ iframe {
 }
 .sub-services{
         text-align: justify;
-        margin-bottom: 10px;
-        background-color: #ececec83;
-        padding: 2rem;
-        border-radius: 25px;
+        margin-bottom: 5px;
+        padding-top: 2rem;
         height: max-content;
 }
 .sub-services h4{
@@ -1041,10 +1039,8 @@ iframe {
 /*engagement models start*/
 .engagement-modals {
     text-align: justify;
-    margin-bottom: 80px;
-    background-color: #ececec83;
-    padding: 2rem;
-    border-radius: 25px;
+    margin-bottom: 10px;
+    padding-top: 2rem;
     min-height: 500px;
   }
 
