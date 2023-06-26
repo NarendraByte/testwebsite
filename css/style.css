@@ -1536,3 +1536,8 @@ a .fa:hover,
   #myBtn:hover {
     background-color: #555;
   }
+  .make-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
